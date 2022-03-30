@@ -1,0 +1,2 @@
+# Data-Preprocessing
+Hello! In this time, we will continue our work. First i want remembering you, our first work was importing data to python. Now we will begin into the next step is Data Preprocessing. Data Preprocessing is one of several step in Data Mining. This step is very crusial because, in this step we will begin processing the data. If the processing doesn't well enough it will impact the result.
